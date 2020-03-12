@@ -110,6 +110,3 @@ Public Class Form1
         con = Nothing
     End Sub
 End Class
-
-
-dgsd
