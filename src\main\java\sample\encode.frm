@@ -1,5 +1,4 @@
 Imports System.Data.SqlClient
-
 Private Sub cmdSafe_Click()
 Dim user_name As String
 Dim password As String
